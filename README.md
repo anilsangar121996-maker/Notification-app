@@ -1,1 +1,1 @@
-# Notification Reminder App
+# Android-Project6-c
